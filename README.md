@@ -63,8 +63,6 @@ carpeta-app/
 ├── .gitignore
 └── README.md
 
-markdown
-Copiar código
 
 ## Instalación y ejecución del proyecto
 
@@ -116,4 +114,3 @@ Docente: Ing. Enrique Macías, Mg.
 
 El proyecto fue desarrollado con fines académicos, aplicando buenas prácticas de desarrollo web, separación de responsabilidades entre frontend y backend, y el uso de bases de datos para garantizar la persistencia de la información.
 
-Fuente: Elaboración propia.
