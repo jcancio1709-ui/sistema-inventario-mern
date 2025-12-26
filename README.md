@@ -103,12 +103,6 @@ La comunicación entre el frontend y el backend se realiza mediante Axios, consu
 
 El código fuente del sistema fue versionado y publicado en un repositorio GitHub, incluyendo la documentación técnica mediante este archivo README.md, el cual describe las tecnologías empleadas, la estructura del proyecto y las instrucciones básicas de ejecución.
 
-## Autores
-
-Estudiante(s):  
-Carrera: Desarrollo de Sistemas Informáticos  
-Universidad: Universidad Técnica de Manabí  
-Docente: Ing. Enrique Macías, Mg.
 
 ## Notas finales
 
